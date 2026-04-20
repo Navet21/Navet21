@@ -16,7 +16,7 @@ Platform to manage pigeon racing data, performance and pedigree
 - Tracking metrics: speed, positions and points  
 - Pedigree system (parents, grandparents, lineage)  
 - Fullstack: React + NestJS  
-- 🌐 Live: https://TU-URL  
+- 🌐 Live: https://pigeons.navet21dev.es/
 
 
 ### ♠ Poker Board Trainer
