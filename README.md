@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">Fullstack Developer from Canary Islands 🇮🇨</h3>
+<h3 align="center">Fullstack Developer · React + NestJS · Docker & VPS</h3>
 
 <p align="center">
-I build and deploy fullstack applications with a strong focus on backend development using NestJS.
-I work with real environments using Docker and VPS, developing scalable and functional applications.
+I build and deploy fullstack applications with real backend logic and infrastructure.<br/>
+Focused on NestJS, APIs and scalable systems, with experience running apps in production using Docker and VPS.
 </p>
 
 ---
@@ -11,26 +11,32 @@ I work with real environments using Docker and VPS, developing scalable and func
 ## 🚀 Featured Projects
 
 ### 🐦 Your Pigeons
-Platform to manage pigeon racing data, performance and pedigree  
+Platform for managing pigeon racing data, performance and pedigree  
 - Management of pigeons, races and associations  
 - Tracking metrics: speed, positions and points  
-- Pedigree system (parents, grandparents, lineage)  
-- Fullstack: React + NestJS  
+- Pedigree system (multi-generation lineage)  
+- Fullstack architecture: React + NestJS  
 - 🌐 Live: https://pigeons.navet21dev.es/
 
+---
 
 ### ♠ Poker Board Trainer
-Application for board texture training  
-- Classification of board textures (dry, coordinated...)  
+Application for training board texture recognition  
+- Classification of board textures (dry, coordinated, etc.)  
 - Backend logic with NestJS  
 - Interactive frontend with React  
 - 🌐 Live: https://board-lab.navet21dev.es/
 
+---
 
-## 🛠️ Technologies & Tools
+## ⚙️ What I Work With
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,nestjs,laravel,docker,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=ts,react,nestjs,docker,postgres,mysql,js,tailwind,html,css,laravel" />
+</p>
+
+<p align="center">
+TypeScript · React · NestJS · Docker · PostgreSQL · REST APIs
 </p>
 
 ---
