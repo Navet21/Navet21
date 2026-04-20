@@ -55,4 +55,6 @@ TypeScript · React · NestJS · Docker · PostgreSQL · REST APIs
 <p align="center">
 <a href="https://linkedin.com/in/navet21"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:navet21dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+<a href="https://discord.com/users/Navet"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://instagram.com/pablosantana96"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
